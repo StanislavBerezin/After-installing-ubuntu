@@ -29,3 +29,8 @@ The reason for using nvm instead of other install types is mainly in how easy it
    
    If require help, run ```nvm help``` or if require any other version just install them accordingly to ```help``` guide
 
+
+
+# Installing Docker
+if no curl then install it and then run 
+1)  ```sudo curl -fsSL https://get.docker.com/ | sh``` that will install all u need
