@@ -34,3 +34,9 @@ The reason for using nvm instead of other install types is mainly in how easy it
 # Installing Docker
 if no curl then install it and then run 
 1)  ```sudo curl -fsSL https://get.docker.com/ | sh``` that will install all u need
+
+
+# Random
+1) to transfer files to AWS ac2 instance
+```scp -i [secretfile.pem] [whatToTranfsfer]  [connections]us-west-2.compute.amazonaws.com
+```
