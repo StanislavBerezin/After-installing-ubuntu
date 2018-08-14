@@ -42,4 +42,4 @@ if no curl then install it and then run
 2) to unzip ```unzip zipName.zip ```
 
 1) to transfer files to AWS ac2 instance
-```scp -i [secretfile.pem] [whatToTranfsfer]  [connections]us-west-2.compute.amazonaws.com```
+```scp -i [secretfile.pem] [whatToTranfsfer]  [connections]us-west-2.compute.amazonaws.com:~[path]```
