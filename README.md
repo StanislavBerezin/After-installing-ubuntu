@@ -38,5 +38,4 @@ if no curl then install it and then run
 
 # Random
 1) to transfer files to AWS ac2 instance
-```scp -i [secretfile.pem] [whatToTranfsfer]  [connections]us-west-2.compute.amazonaws.com
-```
+```scp -i [secretfile.pem] [whatToTranfsfer]  [connections]us-west-2.compute.amazonaws.com```
