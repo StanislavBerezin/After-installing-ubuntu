@@ -37,9 +37,4 @@ if no curl then install it and then run
 
 
 # Random
-1) to zip files through terminal ```zip -r newName.zip currentFolder ```
-
-2) to unzip ```unzip zipName.zip ```
-
-1) to transfer files to AWS ac2 instance
-```scp -i [secretfile.pem] [whatToTranfsfer]  [connections]us-west-2.compute.amazonaws.com:~[path]```
+1) sudo savscan /
